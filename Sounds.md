@@ -1,4 +1,4 @@
-# 🎈 Sounds
+# 🔈 Sounds
 List with all Sounds available on Spigot 1.8.x.
 
 `AMBIENCE_CAVE`
