@@ -1,4 +1,4 @@
-# 🎈 Materials
+# 📦 Materials
 List with all Materials available on Spigot 1.8.x.
 
 `AIR`
