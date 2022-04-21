@@ -1,4 +1,4 @@
-# 🎈 Enchantments
+# ✨ Enchantments
 List with all Enchantments available on Spigot 1.8.x.
 
 `PROTECTION_ENVIRONMENTAL`
